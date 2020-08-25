@@ -1,4 +1,4 @@
-;Produced by Yue Chen, @LANL, on Jul  3, 2018
+;Produced by Yue Chen, @LANL, on Jul  3, 2018 - Lshell selection performed by Rafael Pires de Lima, on August 12, 2020
 ;======> All Rights Reserved; Please do not redistribute without author"permission <=====       
 ;
 ;Data to be compared to model forecast results: Radial distributions of 1MeV electrons observed by RBSP-a between 20130220 and 20160831
