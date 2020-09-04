@@ -1,6 +1,8 @@
 # Forecasting Megaelectron‐Volt Electrons Inside Earth's Outer Radiation Belt With Machine Learning
 _by Rafael Pires de Lima and Yue Chen_
 
+[![DOI](https://zenodo.org/badge/285929678.svg)](https://zenodo.org/badge/latestdoi/285929678)
+
 Relativistic electrons in Earth's outer radiation belt reach megaelectron-volt (MeV) energy and pose a severe space weather threat for spaceborne electronics orbiting our planet. 
 
 Ideally, stakeholders such as the space industry, service providers, and government agencies, count on reliable model forecasts of MeV electrons to take necessary mitigation measures to protect their space assets.
